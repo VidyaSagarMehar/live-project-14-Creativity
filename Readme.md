@@ -44,10 +44,10 @@ https://live-creativity.netlify.app/
 
 ## Features
 
-- Only for desktop view
+- Desktop view
+- Mobile responsive
 - Live previews
 - Fullscreen mode
-- Mobile responsive
 - Tablet responsive
 
 
