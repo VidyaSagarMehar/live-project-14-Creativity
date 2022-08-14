@@ -47,12 +47,14 @@ https://live-creativity.netlify.app/
 - Live previews
 - Fullscreen mode
 - Mobile responsive
-- Tablet respossive
+- Tablet responsive
 
 
 ## Roadmap
 
 - Additional browser support to be added.
+
+- Mobile responsivness will added soon.
 
 ## Feedback
 
