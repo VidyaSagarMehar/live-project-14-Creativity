@@ -46,6 +46,7 @@ https://live-creativity.netlify.app/
 - Only for desktop view
 - Live previews
 - Fullscreen mode
+- Mobile responsive
 
 
 ## Roadmap
