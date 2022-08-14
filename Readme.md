@@ -36,6 +36,8 @@ https://live-creativity.netlify.app/
 
 
 ## Screenshots
+![Screenshot (242)](https://user-images.githubusercontent.com/92782806/184551151-70ca356c-9aa9-4ad5-a5c5-a3a788885422.png)
+![screenshot](https://user-images.githubusercontent.com/92782806/184551193-b3631577-c877-47b8-b964-b66da24e54c8.png)
 
 
 
